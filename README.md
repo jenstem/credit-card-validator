@@ -31,7 +31,7 @@ SO THAT I can be properly paid for products provided to customers
 
 GIVEN a Python app\
 WHEN I type in the credit card number and run the command line "python validator.py"\
-THEN I see comment printed in the terminal\
+THEN I see a comment printed in the terminal\
 WHEN I see the comment, "Valid credit card"\
 THEN I know the credit card number is valid\
 WHEN I see the comment, "Invalid credit card"\
